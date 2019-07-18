@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="sweater" uuid="933b9f8c-46c4-40c3-ae9d-89e40f5715ca">
+      <database-info product="PostgreSQL" version="10.6 (Ubuntu 10.6-0ubuntu0.18.04.1)" jdbc-version="4.2" driver-name="PostgreSQL JDBC Driver" driver-version="42.2.5" dbms="POSTGRES" exact-version="10.6" exact-driver-version="42.2">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
+      <user-name>postgres</user-name>
+      <introspection-schemas>@:@|postgres:*|test:*</introspection-schemas>
+    </data-source>
+  </component>
+</project>
